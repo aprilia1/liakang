@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="health-insurance-app-apk-for-android"}
 if(x=="2"){xxx="european-health-insurance-card-apk-for"}
 if(x=="3"){xxx="insurance-agents-tips-apk-for-android"}
-if(x=="4"){xxx="insurance-agent-apk-for-android"}a_to_ve[i].href="http://www.drakorsafe.cf/p/"+xxx+".html?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="insurance-agent-apk-for-android"}a_to_ve[i].href="http://www.drakorsafe.tech/p/"+xxx+".html?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
